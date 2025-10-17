@@ -1,0 +1,20 @@
+Speaker 1: Halo, kamu sudah ngerjain tugas kuliah daring yang dari Pak Budi?  
+Speaker 2: Belum, aku masih bingung sama instruksinya.  
+Speaker 1: Iya, aku juga sempat bingung, tapi akhirnya aku tanya di grup kelas.  
+Speaker 2: Oh gitu, jadi harus pakai format laporan PDF kan?  
+Speaker 1: Betul, dan jangan lupa ada bagian analisis data juga.  
+Speaker 2: Waduh, berarti aku harus mulai cepat. Deadline besok kan?  
+Speaker 1: Iya, makanya malam ini kita bisa ngerjain bareng lewat Google Meet.  
+Speaker 2: Setuju, biar lebih jelas kalau ada yang kurang paham.  
+Speaker 1: Kamu sudah download data contoh dari LMS?  
+Speaker 2: Belum, file-nya gede ya?  
+Speaker 1: Lumayan, mending download pakai wifi kampus.  
+Speaker 2: Oke, nanti aku download sebelum pulang.  
+Speaker 1: Bagus, jadi malam ini tinggal fokus analisis data.  
+Speaker 2: Pakai Python atau Excel?  
+Speaker 1: Lebih baik Python, soalnya dosen suka begitu.  
+Speaker 2: Hmm, aku masih agak kaku, tapi aku coba deh.  
+Speaker 1: Tenang, nanti aku bantu. Kita bisa buka Jupyter Notebook bareng.  
+Speaker 2: Oke, kalau gitu siap. Sampai ketemu online jam delapan ya.  
+Speaker 1: Siap, jangan telat.  
+Speaker 2: Haha, siap bos.
